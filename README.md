@@ -15,3 +15,10 @@
 -Bonus: Design the system so that it can be distributed. 
 
 -No need to consider high availability for this exercise.
+
+## Instructions:
+
+
+pip install requirements.txt
+
+python run.py
